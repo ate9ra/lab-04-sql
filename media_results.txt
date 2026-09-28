@@ -1,0 +1,8 @@
+username	context	created
+diego_m	Hello everyone, this is my first post!	2026-09-27 10:30:00
+john_d	Just joined and loving it so far.	2026-09-26 14:15:00
+jane_d	Anyone have study tips for finals?	2026-09-25 09:45:00
+sam_r	Great weather today, heading out for a walk.	2026-09-24 16:20:00
+alex_s	Just finished a long coding session.	2026-09-23 20:05:00
+matthew_m	Looking for a good book recommendation.	2026-09-22 11:00:00
+diego_m	Back with a second post this week.	2026-09-28 09:00:00
