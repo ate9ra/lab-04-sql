@@ -1,0 +1,201 @@
+id,group,teams,game_date,location,attendance
+1,Baseball,,9/20/2026,Floda,30116
+2,Basketball,Slovenia,11/23/2025,Žirovnica,22675
+3,Baseball,France,3/14/2026,Le Raincy,18844
+4,Tennis,Czech Republic,11/23/2025,,15873
+5,Baseball,Philippines,7/8/2026,Anao,33126
+6,Basketball,Pakistan,5/18/2026,Mach,47004
+7,Basketball,Tunisia,10/1/2025,Medenine,40842
+8,Basketball,Bulgaria,5/11/2026,Klisura,2477
+9,Soccer,Germany,6/30/2026,Kiel,49751
+10,Tennis,Indonesia,7/24/2026,,2112
+11,Baseball,Brazil,4/11/2026,Capim Grosso,42400
+12,Tennis,Reunion,10/2/2025,Le Port,562
+13,Tennis,,3/3/2026,Rossosh’,44194
+14,Soccer,Macedonia,3/12/2026,Shtip,31434
+15,Basketball,Croatia,1/4/2026,Bakar,9053
+16,Soccer,Portugal,6/7/2026,,34166
+17,Tennis,China,2/28/2026,Siheyuan,25808
+18,Baseball,Japan,11/4/2025,Miura,48020
+19,Soccer,,9/12/2026,Samut Songkhram,49053
+20,Soccer,France,1/25/2026,Lescar,26061
+21,Tennis,Indonesia,1/23/2026,Kotaagung,19014
+22,Baseball,Poland,9/28/2025,Wapno,2417
+23,Baseball,Zambia,10/31/2025,Kalengwa,13770
+24,Tennis,Indonesia,12/20/2025,,34432
+25,Basketball,Brazil,5/11/2026,Pederneiras,39167
+26,Tennis,Philippines,9/3/2026,Pigcawayan,18703
+27,Basketball,Portugal,6/14/2026,,1930
+28,Baseball,Indonesia,3/29/2026,Kalahang,24673
+29,Soccer,Serbia,12/21/2025,Radojevo,28100
+30,Baseball,Thailand,10/31/2025,,35482
+31,Baseball,Finland,8/17/2026,Nykarleby,47050
+32,Tennis,Indonesia,7/18/2026,Sampangbitung,14762
+33,,Malaysia,11/3/2025,Kuala Lumpur,24935
+34,Baseball,New Caledonia,9/4/2026,,31679
+35,Soccer,Cameroon,1/21/2026,Douala,43368
+36,Baseball,Ethiopia,10/12/2025,Tippi,42014
+37,Basketball,,5/23/2026,Boniewo,11825
+38,Soccer,Reunion,4/19/2026,Le Tampon,13201
+39,Basketball,,11/16/2025,Lazo,22328
+40,Tennis,Philippines,11/28/2025,Pogonsili,14350
+41,Basketball,Philippines,4/19/2026,Cawayan,33710
+42,Tennis,Philippines,11/29/2025,,2231
+43,Tennis,Brazil,7/15/2026,Iracemápolis,973
+44,Tennis,Kenya,8/22/2026,Busia,16781
+45,Basketball,Morocco,12/21/2025,Al Hoceïma,29251
+46,Tennis,Latvia,3/1/2026,Ape,24330
+47,Tennis,South Africa,2/26/2026,Deneysville,10450
+48,Basketball,Tanzania,1/3/2026,Kihangara,30051
+49,Soccer,Indonesia,6/6/2026,Bader,16751
+50,Basketball,Indonesia,7/9/2026,Sumberbening,7394
+51,Soccer,China,11/8/2025,Shuibian,4375
+52,Soccer,Bosnia and Herzegovina,3/26/2026,Malešići,42890
+53,Tennis,Slovenia,12/11/2025,Slovenski Javornik,17572
+54,Basketball,China,11/25/2025,Batan,10287
+55,Baseball,Bulgaria,1/3/2026,Aksakovo,19564
+56,Soccer,Tajikistan,6/19/2026,Istaravshan,7288
+57,Soccer,Brazil,12/4/2025,Saubara,11253
+58,Basketball,China,4/13/2026,Cheqiao,10127
+59,Tennis,Peru,11/23/2025,Huancaray,41328
+60,Baseball,Indonesia,12/17/2025,Menara,12010
+61,Tennis,Kuwait,4/22/2026,Kuwait City,46880
+62,Tennis,Brazil,3/1/2026,Vitória,42954
+63,Baseball,Indonesia,3/23/2026,Siluman,29695
+64,Basketball,Latvia,1/30/2026,Salacgrīva,18284
+65,Soccer,Russia,6/18/2026,Priupskiy,24803
+66,Basketball,Cuba,10/30/2025,Bahía Honda,956
+67,Tennis,Svalbard and Jan Mayen,10/16/2025,Longyearbyen,12976
+68,Baseball,Croatia,10/13/2025,Šenkovec,25550
+69,Tennis,Sweden,5/30/2026,Örebro,28451
+70,Baseball,Mexico,7/21/2026,San Francisco,44574
+71,Baseball,Ireland,12/30/2025,Booterstown,34533
+72,Baseball,Pakistan,9/17/2026,Kalāt,9466
+73,Baseball,China,1/26/2026,Zhourui,20980
+74,Basketball,China,8/4/2026,Madoi,32202
+75,,Portugal,1/25/2026,Fajões,49766
+76,Baseball,Indonesia,2/13/2026,Dumandesa,10230
+77,,Philippines,7/22/2026,Suklayin,35555
+78,Soccer,Russia,5/18/2026,Ryazanskiy,14018
+79,Soccer,China,10/9/2025,Baisha,28541
+80,Basketball,Philippines,2/26/2026,Tamontaka,23681
+81,Baseball,Indonesia,1/22/2026,Karobokan,16423
+82,Baseball,,3/11/2026,Keffi,27480
+83,Baseball,China,3/19/2026,Leshan,30091
+84,Tennis,Honduras,6/17/2026,El Perico,36721
+85,Baseball,China,4/5/2026,Wushan,12001
+86,Tennis,China,10/1/2025,Majin,46148
+87,Tennis,Mauritius,7/10/2026,Bel Air Rivière Sèche,8686
+88,Basketball,Russia,5/17/2026,Cherëmushki,40677
+89,Basketball,Kuwait,4/2/2026,Salwá,37271
+90,Soccer,Russia,3/6/2026,Shagonar,11044
+91,Tennis,Thailand,7/30/2026,Phra Yuen,32893
+92,Baseball,Greece,3/4/2026,Týrnavos,31835
+93,,Macedonia,2/4/2026,Orizari,17565
+94,Soccer,Ukraine,10/16/2025,Tymoshivka,4628
+95,Baseball,Peru,1/21/2026,Pallasca,6357
+96,,Poland,4/21/2026,Krzczonów,41068
+97,Baseball,Philippines,6/20/2026,Sapang Buho,27598
+98,Baseball,China,9/1/2026,Qingshuihe,5052
+99,Tennis,United States,4/5/2026,Pittsburgh,34006
+100,Baseball,Palestinian Territory,5/9/2026,Birqīn,47160
+101,Basketball,Portugal,4/14/2026,Cachadinha,38107
+102,Basketball,Czech Republic,11/23/2025,Tečovice,41507
+103,Basketball,China,5/2/2026,Wanfu,21364
+104,Baseball,Brazil,5/7/2026,Silva Jardim,34882
+105,Basketball,Tanzania,9/30/2025,Old Shinyanga,15826
+106,Basketball,France,4/8/2026,Amiens,39761
+107,Baseball,China,2/23/2026,Dalang,40142
+108,Baseball,Mexico,11/27/2025,Las Flores,37363
+109,Tennis,Philippines,5/5/2026,Panitian,5645
+110,Basketball,,4/25/2026,Aguas Corrientes,35516
+111,,Uganda,5/4/2026,Budaka,40418
+112,Tennis,China,6/9/2026,Tangjiawan,6226
+113,Basketball,China,3/10/2026,Zhangfeng,31709
+114,Soccer,Sweden,3/19/2026,Hammarö,39306
+115,Soccer,Indonesia,5/20/2026,Banjar Brahmanabukit,29477
+116,Soccer,Colombia,12/3/2025,Flandes,31099
+117,Soccer,Colombia,8/29/2026,Giraldo,25908
+118,Tennis,France,7/23/2026,Le Kremlin-Bicêtre,31497
+119,Tennis,Portugal,9/23/2026,Lavradio,25698
+120,Baseball,China,6/3/2026,,350
+121,Baseball,Indonesia,4/6/2026,Dukuh Kaler,35641
+122,Baseball,New Zealand,11/16/2025,Takaka,40065
+123,Tennis,France,1/4/2026,Aix-les-Bains,11439
+124,Baseball,,2/5/2026,Curanilahue,31221
+125,,Zimbabwe,5/21/2026,Shangani,28357
+126,Basketball,Dominican Republic,5/14/2026,Las Terrenas,10084
+127,Soccer,China,5/9/2026,Anchang,26131
+128,Basketball,Nigeria,6/23/2026,Ekpoma,5798
+129,Soccer,Indonesia,6/17/2026,Krajansumbermujur,1825
+130,Baseball,United States,11/30/2025,Houston,48304
+131,Soccer,Slovenia,7/4/2026,Radeče,11897
+132,Baseball,Philippines,5/9/2026,Lawa-an,38997
+133,Basketball,Macedonia,2/28/2026,,15103
+134,Tennis,China,11/20/2025,Longquan,13687
+135,Soccer,Mexico,9/22/2026,El Potrero,32690
+136,Soccer,,5/21/2026,,7762
+137,Basketball,China,10/5/2025,Jiangti,43211
+138,,Portugal,5/17/2026,Odrinhas,42433
+139,Baseball,United States,1/21/2026,,49611
+140,Basketball,Philippines,7/23/2026,Buracan,34127
+141,Basketball,Indonesia,10/3/2025,Bagiktinggang,46672
+142,Basketball,China,1/25/2026,Wuyang,33527
+143,Tennis,Comoros,4/15/2026,Ourovéni,41948
+144,Tennis,Germany,11/20/2025,Braunschweig,49912
+145,,El Salvador,10/5/2025,Acajutla,7743
+146,Baseball,Philippines,7/5/2026,Dulangan,10748
+147,Baseball,,7/19/2026,Opoczno,46286
+148,Soccer,United States,6/11/2026,Knoxville,26209
+149,Basketball,Georgia,7/20/2026,Tsaghveri,33441
+150,Baseball,Philippines,6/27/2026,Seres,22501
+151,Baseball,Portugal,1/29/2026,Chãos,45093
+152,Basketball,Mali,2/27/2026,Tominian,38281
+153,Baseball,Philippines,1/9/2026,San Joaquin,9259
+154,Basketball,Poland,8/23/2026,Jonkowo,41998
+155,Baseball,United States,7/11/2026,Bloomington,20790
+156,Baseball,Philippines,6/16/2026,Don Carlos,31840
+157,Basketball,China,6/25/2026,Xincheng,24189
+158,Tennis,China,4/6/2026,Tangwang,1550
+159,,China,2/12/2026,Tianzhen,6784
+160,Baseball,China,5/13/2026,Gaojiazhuang,48918
+161,,Niger,8/3/2026,Illéla,28704
+162,Soccer,United States,12/4/2025,,2042
+163,Basketball,China,3/1/2026,,13673
+164,Basketball,China,11/18/2025,Dongcheng,18593
+165,Basketball,Iran,4/12/2026,,32879
+166,,China,3/25/2026,Nanxiang,48031
+167,Basketball,Indonesia,6/9/2026,Bonsari,24542
+168,Baseball,Mexico,9/29/2025,Nueva Esperanza,25556
+169,Baseball,China,1/2/2026,Liufu,47229
+170,Soccer,Cuba,3/10/2026,Guanabacoa,26589
+171,Tennis,Russia,7/31/2026,Toksovo,15107
+172,Baseball,Philippines,8/24/2026,Allen,30288
+173,Basketball,Namibia,4/5/2026,Grootfontein,47500
+174,Tennis,Indonesia,6/15/2026,Kebon,10016
+175,Tennis,Burkina Faso,4/28/2026,Nouna,4977
+176,Tennis,Mexico,4/19/2026,Buenavista,28563
+177,Baseball,Portugal,10/27/2025,Verba,33186
+178,Tennis,Nepal,3/11/2026,Tīkāpur,1582
+179,,China,8/13/2026,Xiangyangpu,6932
+180,Soccer,China,10/6/2025,Duofudu,11166
+181,Tennis,Sudan,9/7/2026,Wagar,47520
+182,Basketball,China,9/29/2025,Qiaodi,49670
+183,Basketball,Indonesia,1/21/2026,Karangsembung,28585
+184,Basketball,Brazil,6/2/2026,Esplanada,49132
+185,Soccer,Brazil,5/22/2026,Belém,211
+186,Tennis,United Arab Emirates,11/12/2025,Al Ain,44255
+187,Tennis,Indonesia,2/9/2026,Ransiki,37621
+188,Basketball,Portugal,5/20/2026,Casal do Conde,41369
+189,Soccer,Morocco,7/19/2026,Nouaseur,47111
+190,Soccer,,5/11/2026,Trindade,4979
+191,Basketball,Colombia,8/20/2026,Ciudad Bolívar,8899
+192,Basketball,Indonesia,1/1/2026,Bofuer,2494
+193,Tennis,,10/4/2025,Ovsyanka,27223
+194,Soccer,,12/20/2025,Limoges,33172
+195,Baseball,Sweden,11/30/2025,Katrineholm,3384
+196,Tennis,Iran,12/26/2025,Borūjen,48299
+197,Baseball,Belarus,1/7/2026,Vawkavysk,29900
+198,Baseball,France,5/22/2026,Palaiseau,36142
+199,Baseball,Indonesia,9/21/2026,Rajadesa,16942
+200,Basketball,Botswana,12/5/2025,Serowe,21513
